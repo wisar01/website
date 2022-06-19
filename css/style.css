@@ -44,7 +44,6 @@ body {
 }
 .content .isi {
 	position: relative;
-	text-indent: 30px;
 	margin-left: 4;
 	margin-right: 3;
 	font-weight: normal;
@@ -54,7 +53,7 @@ body {
 
 }
 embed{
-	width: 60%;
+	width: 80%;
 	height: 400px;
 }
 .content .penulis{
